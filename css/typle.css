@@ -1,0 +1,142 @@
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#v-clock .item {
+    display: inline-flex;
+    width: 18%;
+}
+
+.item {
+    border: 5px solid red;
+    width: 15%;
+    margin: 0.75px;
+    display: inline-block;
+
+}
+
+.item>a {}
+
+.item>a>img {
+    max-width: 100%;
+}
+
+.item>h4 {}
+
+.item>h4>a {
+    font-size: 20px;
+    font-weight: 400;
+    color: brown;
+}
+
+.item>a>img {
+    width: 500px;
+
+}
+
+.item p {}
+
+.item p.price {}
+
+.item .price {
+    color: red;
+    text-align: center;
+    font-size: 15px;
+    text-align: center;
+}
+
+.item p. price .span {
+    text-align: center
+}
+
+.item p .price new {}
+
+.item p. price old {
+    margin-right:
+}
+
+.item order {}
+
+.item .order .btn {
+    background-color: red;
+    color: white;
+    padding: 5px, 10px;
+}
+
+.Menu {}
+
+.Menu a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+.Menu ul {
+    list-style-type: none;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.Menu li {
+    display: inline-block;
+    float: left;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.Menu ul li {}
+
+.Menu ul li a {}
+
+.Menu {
+    background-color: aquamarine;
+
+}
+
+.Menu .li .a:hover {
+    color: white;
+    background-color: red;
+}
+
+.item-list {}
+
+.item {}
+
+.price .span {
+    text-align: center;
+}
+
+.new {}
+
+.item .old {
+    text-decoration: line-through;
+}
+
+.item .price span {
+    text-align: center;
+    font-size: 15px;
+    margin: 0px 15px;
+
+}
+
+.ordor {
+    background-color: red;
+    float: right
+}
+
+.item.ordor.btn {
+    padding: 1px;
+}
+
+.class
